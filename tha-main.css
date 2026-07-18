@@ -11,15 +11,15 @@
   color-scheme: light;
   --header: url('https://images2.imgbox.com/f0/5a/te2IYkcx_o.png');
 
-  --neutral: #ede8cc;
-  --neutralDark: #e0dab6;
-  --neutralDarker: #c9c59f;
+  --neutral: #e5dfec;
+  --neutralDark: #d7d3e0;
+  --neutralDarker: #c8c3d4;
 
-  --contrast: #e7bc48;
+  --contrast: #dabb79;
   --contrastLight: #141412;
   --contrastLighter: #c3c8f3;
 
-  --accentClr: #217446;
+  --accentClr: #923947;
   --accentClrDark: #333c92;
 
   --textColor: #121310;
@@ -31,7 +31,7 @@
   
   --flip: rotate(0);
   
-  --gradient: linear-gradient(to left top, #eadfa8, #e7d690, #e5cc78, #e4c260, #e3b747, #d0b13b, #bdaa30, #a9a425, #829d34, #5e9343, #3f8750, #257a59);
+  --gradient: linear-gradient(to left bottom, #dabb79, #ce9964, #bf7755, #ab574c, #923947);
 
   --little-size: 14px;
   --normal-size: 16px;
@@ -48,15 +48,15 @@
   color-scheme: dark;
   --header: url('https://images2.imgbox.com/3c/7e/1QaO7629_o.png');
 
-  --neutral: #292927;
-  --neutralDark: #20211f;
-  --neutralDarker: #141412;
+  --neutral: #232129;
+  --neutralDark: #1b1a21;
+  --neutralDarker: #0b090f;
 
-  --contrast: #f2c249;
+  --contrast: #e7b25e;
   --contrastLight: #f6f2ea;
   --contrastLighter: #40485e;
 
-  --accentClr: #2a6247;
+  --accentClr: #ca4343;
   --accentClrDark: #333c92;
 
   --textColor: #f7eedf;
@@ -68,7 +68,7 @@
   
   --flip: rotate(180deg);
   
-  --gradient: linear-gradient(to left bottom, #171c18, #1e2c22, #233d2d, #274f39, #286146, #306f4a, #3b7d4c, #498b4c, #6a963e, #8e9f2f, #b7a621, #e3a820);
+  --gradient: linear-gradient(to left bottom, #e7b25e, #be7d3f, #c46c3b, #c8593c, #ca4343);
 }
 
 /* S'applique à TOUS les éléments du forum*/
@@ -1284,7 +1284,7 @@ a.mainmenu img {
 }
 
 .pa-index {
-  background-image: url("https://images2.imgbox.com/21/0f/b9DVbbvT_o.png") !important;
+  background-image: url("https://images2.imgbox.com/44/3c/SNOObUPr_o.png") !important;
   background-size: 113% !important;
   height: 219px;
   border-radius: 15px !important;
